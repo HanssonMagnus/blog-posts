@@ -74,6 +74,9 @@ Blogs:
 * [Paradigm Research](https://www.paradigm.xyz/writing/)
 * [Vitalik's Website](https://vitalik.ca/)
 
+DAOs:
+* [EVMavericks' ManeNet DAO](https://dao.evmavericks.xyz/)
+
 Games:
 * [CryptoZombies](https://cryptozombies.io/)
 * [Dark Forest](https://zkga.me/)
