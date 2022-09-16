@@ -16,9 +16,9 @@ The above resources hold valuable information and links to further resources, an
 reading.
 
 ## Introduction
-```
+```text
 Sep 15 08:42:44 e erigon[31611]: [INFO] [09-15|08:42:44.174] Commit cycle                             in=818.880865ms
-Sep 15 08:42:44 e erigon[31611]: [INFO] [09-15|08:42:44.174] RPC Daemon notified of new headers       from=15537391 to=15537392 header sending=7.323µs log sending=261ns
+Sep 15 08:42:44 e erigon[31611]: [INFO] [09-15|08:42:44.174] RPC Daemon notified of new headers       from=15537391 to
 Sep 15 08:42:44 e erigon[31611]: [INFO] [09-15|08:42:44.174] [1/15 Headers] Waiting for headers...    from=15537392
 Sep 15 08:42:50 e erigon[31611]: [INFO] [09-15|08:42:50.880]
 Sep 15 08:42:50 e erigon[31611]:     ,,,         ,,,                                               ,,,         ,,,
@@ -41,7 +41,7 @@ Sep 15 08:42:50 e erigon[31611]:    .88ooo8888.  888        888   888   '88..8' 
 Sep 15 08:42:50 e erigon[31611]:   .8'     '888. 888   .o8  888 . 888    '888'   d8(  888   888 .888    .o888   888
 Sep 15 08:42:50 e erigon[31611]:  o88o     o8888o'Y8bod8P'  "888"o888o    '8'    'Y888""8o  "888"'Y8bod8P''Y8bod88P"
 Sep 15 08:42:50 e erigon[31611]:
-Sep 15 08:42:50 e erigon[31611]: [INFO] [09-15|08:42:50.882] [1/15 Headers] Processed                 highest inserted=15537393 age=8s
+Sep 15 08:42:50 e erigon[31611]: [INFO] [09-15|08:42:50.882] [1/15 Headers] Processed                 highest inserted
 Sep 15 08:42:50 e erigon[31611]: [INFO] [09-15|08:42:50.933] [6/15 Execution] Completed on            block=15537393
 ```
 
