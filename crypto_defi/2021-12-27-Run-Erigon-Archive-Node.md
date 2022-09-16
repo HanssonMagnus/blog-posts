@@ -14,6 +14,10 @@ title: Running an Erigon Archive Node
 * [Towards the first release of Turbo-geth](https://ledgerwatch.github.io/turbo_geth_release.html)
 * [TrueBlocks](https://github.com/TrueBlocks/trueblocks-core)
 
+## Update 2022-09-16
+New post about Erigon after the Merge:
+* [Running Erigon After the Merge](https://magnushansson.xyz/blog_posts/crypto_defi/2022-09-15-Erigon-Merge)
+
 ## Update 2022-09-14 (Be ready for the Merge)
 Ethereum Foundation recently announced that "It is strongly advised to stay up-to-date on the
 latest available versions of clients being used. This can be done by continue monitoring client
