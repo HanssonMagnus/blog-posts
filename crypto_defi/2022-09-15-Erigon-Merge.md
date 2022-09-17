@@ -237,6 +237,9 @@ SyslogIdentifier=lighthouse
 WantedBy=multi-user.target
 ```
 
+Note that I randomly set the same `--datadir` option for both `Erigon` and `Lighthouse` which might
+not be advisable.
+
 Now we can start Lighthouse and Erigon with,
 
 ```bash
