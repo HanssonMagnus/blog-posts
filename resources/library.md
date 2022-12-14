@@ -3,6 +3,11 @@ layout: post
 title: Library
 ---
 
+Note: I do not recommend every book listed here as I haven't read all books listed, nor do I
+necessarily like the once I have read. This is my digital library where I collect books of
+interest. If you have any book recommendations or want to discuss any literature please feel free
+to contact me.
+
 Many books in the public domain can be accessed at [Gutenberg.org](http://www.gutenberg.org/).
 
 # Non-technical books
