@@ -3,10 +3,11 @@ layout: post
 title: Library
 ---
 
-Note: I do not recommend every book listed here as I haven't read all books listed, nor do I
-necessarily like the once I have read. This is my digital library where I collect books of
-interest. If you have any book recommendations or want to discuss any literature please feel free
-to contact me.
+Note: Don't judge this digital bookshelf by its cover! While I've gathered a variety of books in
+this digital library, it's worth noting that I haven't read each one, and not all of the ones I've
+read align with my personal preferences. Nevertheless, this collection represents an array of
+topics that have sparked my interest. I warmly welcome any book recommendations you may have or
+discussions about the literature presented here. Please don't hesitate to get in touch.
 
 Many books in the public domain can be accessed at [Gutenberg.org](http://www.gutenberg.org/).
 
@@ -63,15 +64,15 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * [Tolstoy, Anna Karenina (1878)](https://en.wikipedia.org/wiki/Anna_Karenina)
 * [Tolstoy, War and Peace (1869)](https://en.wikipedia.org/wiki/War_and_Peace)
 
-##### Fantasy:
+  Fantasy:
 * [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien_bibliography)
 * [Pullman, His Dark Materials Trilogy (1995-2000)](https://en.wikipedia.org/wiki/His_Dark_Materials)
 
-##### Finance:
+  Finance:
 * [Harris, The Fear Index (2011)](https://www.goodreads.com/book/show/11429709-the-fear-index)
 * [Lefèvre, Reminiscences of a Stock Operator (1923)](https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator)
 
-##### Science Fiction:
+  Science Fiction:
 * [Adams, The Hitchhiker's Guide to the Galaxy (1979)](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 * [Asimov, Foundation Trilogy (1951-1953)](https://en.wikipedia.org/wiki/Foundation_series)
 * [Brin, The Uplift Stories (1980-1998)](https://en.wikipedia.org/wiki/Uplift_Universe)
@@ -96,7 +97,7 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * [Wells, The Time Machine (1895)](https://en.wikipedia.org/wiki/The_Time_Machine)
 * [Zelazny, Lord of Light (1967)](https://en.wikipedia.org/wiki/Lord_of_Light)
 
-##### Philosophical fiction:
+  Philosophical fiction:
 * [Dostoevsky, Crime and Punishment (1866)](https://en.wikipedia.org/wiki/Crime_and_Punishment)
 * [Dostoevsky, The Brothers Karamazov (1880)](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)
 
@@ -116,14 +117,14 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * Reinhart and Rogoff, This Time is Different
 * Lowenstein, When Genius Failed: The Rise and Fall of Long-Term Capital Management
 
-##### Behavioral finance:
+  Behavioral finance:
 * [Tuckett, Minding the Markets: An Emotional Finance View of Financial Instability (2011)](https://www.goodreads.com/book/show/12194529-minding-the-markets)
 
-##### History:
+  Financial history:
 * [Furguson, High Financier: The Lives and Time of Siegmund Warburg (2010)](https://www.goodreads.com/book/show/7948059-high-financier)
 * [Furguson, The Ascent of Money (2008)](https://en.wikipedia.org/wiki/The_Ascent_of_Money)
 
-##### Monetary finance:
+  Monetary finance:
 * [Bagehot, Lombard Street (1873)](https://en.wikipedia.org/wiki/Lombard_Street:_A_Description_of_the_Money_Market)
 * [Bernanke, The Courage to Act: A Memoir of a Crisis and Its Aftermath (2015)](https://www.goodreads.com/book/show/32191707-the-courage-to-act)
 * [Brunnermeier, James, and Landau The Euro and the Battle of Ideas (2016)](https://en.wikipedia.org/wiki/The_Euro_and_the_Battle_of_Ideas)
@@ -148,17 +149,25 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * [Wicksell, Interest and Prices (1936)](https://cdn.mises.org/Interest%20and%20Prices_2.pdf)
 * [Wicksell, Value, Capital, and Rent (1893)](https://cdn.mises.org/Value,%20Capital,%20and%20Rent_2.pdf)
 
+#### Games:
+  Chess:
+* [Chernev, Logical Chess: Move by Move (1998)](https://www.chessgames.com/perl/chesscollection?cid=1004861)
+* [Maizelis, The Soviet Chess Primer (2014)](https://www.goodreads.com/en/book/show/24916105)
+* [Silamn, Amateur's Mind (1999)](mhttps://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/)
+* [Silman, How to Reassess Your Chess (2010)](https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/)
+* [Silman, Silman's Complete Endgame Course (2006)](https://www.silmanjamespress.com/shop/chess/silmans-complete-endgame-course/)
+
 #### History:
+* Bullock, Hitler and Stalin: Parallel Lives
+* Castillo, The True History of The Conquest of New Spain
+* Cicero, On Moral Ends
+* Cicero, Selected Political Speeches
+* Clausewitz, On War
 * [Ehrman, How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee (2014)](https://www.goodreads.com/book/show/20149192-how-jesus-became-god)
 * Green, The Greco-Persian Wars
-* Bullock, Hitler and Stalin: Parallel Lives
 * Gaius Julius Caesar, The War for Gaul
 * Gaius Julius Caesar, The Civil War
-* Cicero, Selected Political Speeches
-* Cicero, On Moral Ends
 * Sturluson, History of the Kings of Norway
-* Clausewitz, On War
-* Castillo, The True History of The Conquest of New Spain
 * Trotsky, History of the Russian Revolution
 
 #### Linguistics:
@@ -180,18 +189,19 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * [Smith, An Introduction to Gödel's Theorems](https://www.goodreads.com/book/show/208291.An_Introduction_to_G_del_s_Theorems)
 
 #### Non-fiction:
-* Kling, The Three Landuages of Politics
-* Snowden, Permanent Record
 * Assange, Cypherpunks
-* McGilchrist, The Master and His Emissary
-* Haidt, The Righteous Mind
-* Epstein, Range: Why Generalists Triumph in a Specialized World
 * Bostrom, Superintelligence: Paths, Dangers, Strategies
-* [Newport, Deep Work](https://www.goodreads.com/book/show/25744928-deep-work?ac=1&from_search=true)
-* [Thiel, Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
-* [Knuth, Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
+* Epstein, Range: Why Generalists Triumph in a Specialized World
 * [Gilder, Life After Google](https://www.goodreads.com/book/show/32073021-life-after-google)
+* Haidt, The Righteous Mind
+* Kling, The Three Landuages of Politics
+* [Knuth, Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
+* McGilchrist, The Master and His Emissary
+* [Newport, Deep Work](https://www.goodreads.com/book/show/25744928-deep-work?ac=1&from_search=true)
+* [Schneier, A Hacker's Mind (2023)](https://www.schneier.com/books/a-hackers-mind/)
+* Snowden, Permanent Record
 * [Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+* [Thiel, Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
 
 #### Philosophy:
 * [Frankl, Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
@@ -206,7 +216,7 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * Kant, Critique of Pure Reason
 * Locke, An Essay Concerning Human Understanding
 
-##### Political Philosophy:
+  Political Philosophy:
 * Frédéric Bastiat
 * Pierre-Joseph Proudhon
 * William Godwin
@@ -220,7 +230,7 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * Robertson, The Dispossessed Majority
 * Spencer, The Man Versus the State
 
-##### Philosophical Theology:
+  Philosophical Theology:
 * Aquinas, Summa Theologica (1265-1274)
 * [Aslan, God: A Human History (2017)](https://www.goodreads.com/book/show/34101725-god)
 * Augustine, Confessions (397-400)
@@ -280,6 +290,12 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * [Duffie, Dynamic Asset Pricing Theory (2001)](https://www.goodreads.com/book/show/404064.Dynamic_Asset_Pricing_Theory?ac=1&from_search=true&qid=po0mU3rUrq&rank=4)
 * [Foucault, Pagano, and Roell, Market Liquidity: Theory, Evidence, and Policy](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199936243.001.0001/acprof-9780199936243)
 * [Tsay, Analysis of Financial Time Series (2010)](https://faculty.chicagobooth.edu/ruey.tsay/teaching/)
+
+#### Financial Engineering:
+* [Lopez de Prado, Advances in Financial Machine Learning (2018)](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
+* [Shreve, Stochastic Calculus for Finance I (2004)](https://link.springer.com/book/10.1007/978-0-387-22527-2)
+* [Shreve, Stochastic Calculus for Finance II (2004)](https://link.springer.com/book/9780387401010)
+* [Strickland and Clewlow, Implementing Derivative Models (1998)](https://www.wiley.com/en-us/Implementing+Derivative+Models-p-9780471966517)
 
 #### Game Theory:
 * [Fudenberg and Tirole, Game Theory (1991)](https://www.goodreads.com/book/show/469868.Game_Theory)
