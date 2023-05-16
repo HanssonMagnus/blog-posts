@@ -283,13 +283,20 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * [Platt, Make: Electronics (2009)](https://www.goodreads.com/book/show/6945716-make)
 
 #### Financial Economics:
+Asset pricing:
 * [Back, Asset Pricing and Portfolio Choice Theory (2010)](https://www.goodreads.com/book/show/9522136-asset-pricing-and-portfolio-choice-theory?ac=1&from_search=true&qid=B6lLLsu5he&rank=1)
 * [Campbell, Financial Decisions and Markets (2018)](https://press.princeton.edu/titles/11177.html)
 * [Campbell, Lo, and MacKinlay, The Econometrics of Financial Markets (1997)](https://press.princeton.edu/titles/5904.html)
 * [Cochrane, Asset Pricing (2005)](https://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm)
 * [Duffie, Dynamic Asset Pricing Theory (2001)](https://www.goodreads.com/book/show/404064.Dynamic_Asset_Pricing_Theory?ac=1&from_search=true&qid=po0mU3rUrq&rank=4)
-* [Foucault, Pagano, and Roell, Market Liquidity: Theory, Evidence, and Policy](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199936243.001.0001/acprof-9780199936243)
+
+Financial econometrics:
 * [Tsay, Analysis of Financial Time Series (2010)](https://faculty.chicagobooth.edu/ruey.tsay/teaching/)
+
+Market microstructure:
+* [Durbin, All About High-Frequency Trading (2010)](https://www.goodreads.com/book/show/8880568-all-about-high-frequency-trading)
+* [Foucault, Pagano, and Roell, Market Liquidity: Theory, Evidence, and Policy](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199936243.001.0001/acprof-9780199936243)
+* [Gregoriou, Handbook of High Frequency Trading (2015)](https://www.sciencedirect.com/book/9780128022054/handbook-of-high-frequency-trading#book-description)
 
 #### Financial Engineering:
 * [Lopez de Prado, Advances in Financial Machine Learning (2018)](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
