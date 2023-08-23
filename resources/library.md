@@ -31,6 +31,8 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 #### Cryptocurrency/DeFi/Blockchain:
 * [Ammous, The Bitcoin Standard (2018)](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard)
 * [Ammous, The Fiat Standard (2021)](https://www.goodreads.com/en/book/show/59539733-the-fiat-standard)
+* [Buterin, Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains (2022)](https://proofofstake.gitcoin.co/)
+* [Greenberg, Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency (2022)](https://www.goodreads.com/en/book/show/60462182)
 * [Harvey, DeFi and the Future of Finance (2021)](https://www.goodreads.com/book/show/58871661-defi-and-the-future-of-finance)
 * [Lipton, Blockchain and Distributed Ledgers: Mathematics, Technology, and Economics (2021)](https://www.worldscientific.com/worldscibooks/10.1142/11857#t=toc)
 * [Srinivasan, The Network State: How To Start A New Country (2022)](https://thenetworkstate.com/)
@@ -156,6 +158,16 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * [Silamn, Amateur's Mind (1999)](mhttps://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/)
 * [Silman, How to Reassess Your Chess (2010)](https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/)
 * [Silman, Silman's Complete Endgame Course (2006)](https://www.silmanjamespress.com/shop/chess/silmans-complete-endgame-course/)
+
+#### Health/Fitness
+* [Jujimufu, Legendary Flexibility (2016)](https://jujimufu.com/products/legendary-flexibility-1)
+* [Low, Overcoming Gravity (2022)](https://www.goodreads.com/book/show/62807799-overcoming-gravity?from_search=true&from_srp=true&qid=6ePddsJtzI&rank=2)
+* [MacLeod, 9 Out of 10 Climbers Make the Same Mistakes (2009)](https://www.goodreads.com/en/book/show/7489836)
+* [McDougall, Born to Run (2009)](https://www.goodreads.com/book/show/6289283-born-to-run?ref=nav_sb_ss_1_11)
+* [Patrick, Knee Ability Zero (2021)](https://www.goodreads.com/book/show/59563188-knee-ability-zero?ref=nav_sb_ss_1_8)
+* [Rippetoe, Practical Programming (2006)](https://www.goodreads.com/book/show/1677880.Practical_Programming_for_Strength_Training?ref=nav_sb_ss_1_20)
+* [Rippetoe, Starting Strength (2005)](https://www.goodreads.com/book/show/2098799.Starting_Strength?from_search=true&from_srp=true&qid=c0cIQxhmeE&rank=1)
+* [Starrett, Becoming a Supple Leopard (2013)](https://www.goodreads.com/en/book/show/13594266)
 
 #### History:
 * Bullock, Hitler and Stalin: Parallel Lives
