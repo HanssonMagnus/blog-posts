@@ -24,6 +24,19 @@ influential.
 
 #### Finance
 
+Market microstructure (Survey articles):
+- Amihud, Mendelson, and Pedersen 2005, Liquidity and Asset Pricing, Stern School, New York Uni.
+- Hasbrouck 1996a, Modeling Microstructure Time Series, in G. S. Maddala, and C. R. Rao, eds.,
+Hanbook of Statistics 14: Statistical Methods in Finance.
+- Madhavan 2000, Market Microstructure: A Survey, Journal of Financial Markets.
+- Biais, Glosten, and Spatt 2005, Market Microstructure: A Survey of Microfoundations, Empirical
+Results, and Policy Implications. Journal of Financial Markets.
+
+Market microstructure (Early/Foundational research):
+- Garman 1976, Market Microstructure, Journal of Financial Markets.
+- Roll 1984, A Simple Implicit Measure of the Effictive Bid-ask Spead in an Efficient Market,
+  Journal of Finance.
+
 Market microstructure:
 - Hasbrouck, Joel (1991a). "Measuring the Information Content of Stock Trades". The Journal of Finance.
 - Hasbrouck, Joel (1991b). "The summary informativeness of stock trades: An econometric analysis".

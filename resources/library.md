@@ -74,6 +74,9 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * [Harris, The Fear Index (2011)](https://www.goodreads.com/book/show/11429709-the-fear-index)
 * [Lefèvre, Reminiscences of a Stock Operator (1923)](https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator)
 
+  Historical Fiction:
+* [Harris, Imperium Triology (2006-2016)](https://en.wikipedia.org/wiki/Imperium_(Harris_novel))
+
   Science Fiction:
 * [Adams, The Hitchhiker's Guide to the Galaxy (1979)](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 * [Asimov, Foundation Trilogy (1951-1953)](https://en.wikipedia.org/wiki/Foundation_series)
@@ -309,6 +312,9 @@ Market microstructure:
 * [Durbin, All About High-Frequency Trading (2010)](https://www.goodreads.com/book/show/8880568-all-about-high-frequency-trading)
 * [Foucault, Pagano, and Roell, Market Liquidity: Theory, Evidence, and Policy](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199936243.001.0001/acprof-9780199936243)
 * [Gregoriou, Handbook of High Frequency Trading (2015)](https://www.sciencedirect.com/book/9780128022054/handbook-of-high-frequency-trading#book-description)
+* [Harris, Trading and Exchanges (2002)](https://global.oup.com/academic/product/trading-and-exchanges-9780195144703?cc=se&lang=en&)
+* [Hasbourck, Empirical Market Microstructure (2007)](https://global.oup.com/academic/product/empirical-market-microstructure-9780195301649?cc=se&lang=en&)
+* [O'Hara, Market Microstructure Theory (1995)](https://www.amazon.com/Market-Microstructure-Theory-Maureen-OHara/dp/0631207619)
 
 #### Financial Engineering:
 * [Lopez de Prado, Advances in Financial Machine Learning (2018)](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
