@@ -22,12 +22,10 @@ I've had some trouble with AMD processors for some time. I might have lost the s
 twice in a row or there is something fishy with the combination of CPU, RAM, MB, and BIOS settings
 that I run. In 2020 I wrote the following in my Github Debian dotfile repo:
 
-```
-I have actually had Debian 10 crash a couple of times, with the error messages regarding the CPU. I
+*I have actually had Debian 10 crash a couple of times, with the error messages regarding the CPU. I
 do not know exactly what the error is, I have only heard that it has previously been problems with
 AMD Ryzen CPUs and some kernels. The reason why I did not have any problems on Ubuntu, I think, is
-beacuse I was running version 18, which ran a kernel where this bug wasn't present.
-```
+beacuse I was running version 18, which ran a kernel where this bug wasn't present.*
 
 At this point in time, I ran an AMD Ryzen 5 1600 with the Asus Prime X370-Pro motherboard. Before
 installing Debian on this machine I ran Ubuntu and I did not report any issues, however I'm unsure
